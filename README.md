@@ -1,4 +1,4 @@
-# 📈 Stoxify - Real-Time Stock Aggregation Dashboard Question -1
+# 📈 Stoxify - Real-Time Stock Aggregation Dashboard 
 
 ![Banner](https://img.shields.io/badge/React-Vite-blue?style=for-the-badge&logo=react)  ![Status](https://img.shields.io/badge/Status-Working-brightgreen?style=for-the-badge)
 
